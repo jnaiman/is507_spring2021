@@ -50,6 +50,10 @@ IS430 (formally IS452) Foundations of Information Processing is strongly recomme
 ## Writing Resources
 The iSchool Writing Resources is the in-house writing support team for graduate students at the iSchool. They are here to help you with your writing and help you feel more comfortable and confident in your skills. The writing consultants are not professors or evaluators. They simply know the struggles of graduate and undergraduate-level writing and want to help you learn how to succeed and improve your writing skills. The iSchool writing consultants can help you with every step of the writing process. For detailed information on our services please visit our website: https://publish.illinois.edu/ischoolwritingresources/
 
+## Land Acknowledgment
+As a land-grant institution, the University of Illinois at Urbana-Champaign has a responsibility to acknowledge the historical context in which it exists. In order to remind ourselves and our community, we will begin this event with the following statement. We are currently on the lands of the Peoria, Kaskaskia, Peankashaw, Wea, Miami, Mascoutin, Odawa, Sauk, Mesquaki, Kickapoo, Potawatomi, Ojibwe, and Chickasaw Nations. It is necessary for us to acknowledge these Native Nations and for us to work with them as we move forward as an institution. Over the next 150 years, we will be a vibrant community inclusive of all our differences, with Native peoples at the core of our efforts.
+
+[More information can be found on the Chancellor’s Website.](https://chancellor.illinois.edu/land_acknowledgement.html)
 
 ## Course Schedule Outline
 **Note:** the precise scheduling of topics is likely to change based on student feedback and interests.  
@@ -111,7 +115,10 @@ Criteria for grading homework assignments include (but are not limited to) creat
 
 Additionally, unless explicitly stated **do not** publish homework solutions online.
 
-## Land Acknowledgment
-As a land-grant institution, the University of Illinois at Urbana-Champaign has a responsibility to acknowledge the historical context in which it exists. In order to remind ourselves and our community, we will begin this event with the following statement. We are currently on the lands of the Peoria, Kaskaskia, Peankashaw, Wea, Miami, Mascoutin, Odawa, Sauk, Mesquaki, Kickapoo, Potawatomi, Ojibwe, and Chickasaw Nations. It is necessary for us to acknowledge these Native Nations and for us to work with them as we move forward as an institution. Over the next 150 years, we will be a vibrant community inclusive of all our differences, with Native peoples at the core of our efforts.
+## Statement of Inclusion
+http://www.inclusiveillinois.illinois.edu/chancellordivstmtswf.html - ValueStmt
+As the state’s premier public university, the University of Illinois at Urbana- Champaign’s core mission is to serve the interests of the diverse people of the state of Illinois and beyond. The institution thus values inclusion and a pluralistic learning and research environment, one which we respect the varied perspectives and lived experiences of a diverse community and global workforce. I support diversity of worldviews, histories,
+and cultural knowledge across a range of social groups including race, ethnicity, gender identity, sexual orientation, abilities, economic class, religion, and their intersections.
 
-[More information can be found on the Chancellor’s Website.](https://chancellor.illinois.edu/land_acknowledgement.html)
+## Disability Statement
+To obtain disability-related academic adjustments and/or auxiliary aids, students with disabilities must contact the course instructor and the Disability Resources and Educational Services (DRES) as soon as possible. To contact DRES you may visit 1207 S. Oak St., Champaign, call 333-4603 (V/TTY), or e-mail a message to disability@uiuc.edu.
