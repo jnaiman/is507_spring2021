@@ -1,4 +1,4 @@
-# IS507, Fall 2020 (taught online, synchronously; 2 hrs/class)
+# IS507, Spring 20201 (taught online, synchronously; 3 hrs/class)
 
 **NOTE: check each week to see if its IN-DEV or READY for each week**
 
