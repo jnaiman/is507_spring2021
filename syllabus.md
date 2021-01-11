@@ -17,7 +17,7 @@ Finally, due to the current messiness of the COVID learning environment, we are 
 An introduction to statistical and probabilistic models as they pertain to quantifying information, assessing information quality, and principled application of information to decision-making. The increasing prevalence of massive data sets and falling computational barriers have rendered statistical modeling an integral part of contemporary information management. With this in mind, this class prepares students to select and properly undertake commonly encountered modeling tasks. The course reviews relevant results from probability theory, emphasizing the merits and limitations of familiar probability distributions as vehicles for modeling information. Subsequent consideration includes parametric and non-parametric predictive models, as well as a discussion of extensions of these models for unsupervised learning. Throughout these discussions, the course focuses on model selection and gauging model quality. Applications of statistical and probabilistic models to tasks in information management (e.g. prediction, ranking, and data reduction) are emphasized.
 
 ## Learning Objectives
-Students will demonstrate an understanding of probability theory and statistical learning by building and evaluating models of a diverse range of data sets. By the end of the course students will have basic concepts of what constitutes a “good” statistical question, what one can feasibly learn and predict with data, and an overview of toolsets and methods to answer elementary statistical questions. In particular, each student will be able to:
+Students will demonstrate an understanding of probability theory and statistical learning by building and evaluating models of a diverse range of data sets. By the end of the course students will have basic concepts of what constitutes a "good" statistical question, what one can feasibly learn and predict with data, and an overview of toolsets and methods to answer elementary statistical questions. In particular, each student will be able to:
  * Articulate the role of marginal, joint, and conditional probability in modeling processes involving information.
  * Select, parameterize, and compare probability distributions as vehicles for modeling information.
  * Specify, estimate and evaluate elementary parametric statistical models.
@@ -76,11 +76,11 @@ As a land-grant institution, the University of Illinois at Urbana-Champaign has 
 | [Week 15](week15) | Model Selection & Shrinkage Methods for Linear Regression |
 | [Week 16](week16) | Lasso Regression & CV; Intro to PCA; Course wrap-up |
 
-## Assignments and Methods of Assessment:
+## Assignments and Methods of Assessment
 
 | Assignment | Percentage | Description |
 |---|---|---|
-| Weekly homework | 55% | Assigned most weeks, statistics written problems and R-coding problems |
+| Weekly homework | 55% (maximum) | Assigned most weeks, statistics written problems and R-coding problems |
 | Project - mid-course portion | 20% | "check in" done individually, then groups assigned for rest of class |
 | Project - final submission | 25% | an in-depth data analysis report (same group) |
 
@@ -100,10 +100,16 @@ All assignments and exams, including code and data, must be uploaded as files in
  
  If coding is required for the assignment, you will not get full points if you do not submit the R file. If the code requires a dataset and this is not included in your submission you will not get full credit. Files should be uploaded individually, no *.zip files will be accepted.
  
+ No late portions of the Project assignment will be accepted late.
+ 
 ## Academic Integrity
 Please review and reflect on the academic integrity policy of the University of Illinois, http://studentcode.illinois.edu/article1_part4_1-401.html, to which we subscribe. By turning in materials for review, you certify that all work presented is your own and has been done by you independently, or as a member of a designated group for group assignments.
 
-If, in the course of your writing, you use the words or ideas of another writer, proper acknowledgement must be given (using APA, Chicago, or MLA style). Not to do so is to commit plagiarism, a form of academic dishonesty. If you are not absolutely clear on what constitutes plagiarism and how to cite sources appropriately, now is the time to learn. Please ask me!
+If, in the course of your writing, you use the words or ideas of another writer, proper acknowledgement must be given (using APA, Chicago, or MLA style). Not to do so is to commit plagiarism, a form of academic dishonesty.
+
+This includes if you find any solutions to homework assignments online.  If you do find an answer to a question online, you cannot simply copy the solution (even with proper citation) -- you must include an explanation, in your own words, about what this solution is telling you and why you think it is correct or incorrect.
+
+If you are not absolutely clear on what constitutes plagiarism and how to cite sources appropriately, now is the time to learn. Please ask me!
 
 Please be aware that the consequences for plagiarism or other forms of academic dishonesty will be severe. Students who violate university standards of academic integrity are subject to disciplinary action, including a reduced grade, failure in the course, and suspension or dismissal from the University.
 
