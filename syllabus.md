@@ -79,3 +79,39 @@ The iSchool Writing Resources is the in-house writing support team for graduate 
 | Weekly homework | 55% | stuff |
 | Project - mid-course portion | 20% | stuff |
 | Project - final submission | 25% | stuff |
+
+## Class Participation Policy
+To be a leader in the fields of tech you need to be able to to clearly articulate issues and problems and how analytical tools can help. The way we foster this in the course is that you must participate in the classroom discussion. You are not required to "speak up" during every class session, but you do need to attend and contribute to the class and/or forum discussion over the semester.
+Leaders are also expected to foster productive environments for those around them. Those in this class come from a variety of backgrounds and comfort levels with the material and programming - it is expected that all students (and instructor!) will remain cognizant of this fact at all times and any demeaning language or behavior will not be tolerated.
+
+## Attendance Policy
+This course is taught *synchronously* and as such enrollment in this course includes an expectation of regular attendance. If you find you must miss class, contact me as soon as possible. Students missing more than one class session or who regularly arrive late or leave early will not pass the class unless alternate arrangements have been made with the instructor. According to University policy: "For a graduate level course, attendance is expected, and should not be counted toward the final grade. The Student Code explicitly states that for all students, “(a) Regular class attendance is expected of all students at the University” (​http://admin.illinois.edu/policy/code/article1_part5_1-501.html​)
+
+## Exam and Homework Policy
+We will drop your lowest homework grade when we calculate your final grade. ​ All work must be your own, including all code turned in for assignments or exams. Using snippets of code or math tips can often be found online -- these are perfectly fine resources to use, but you MUST cite your sources.
+All assignments and exams, including code and data, must be uploaded as files in Moodle. Your name should appear in the files and the file names as follows lastname-first-module.ext (e.g, naiman-jill-assignment1.pdf). The submission must include:
+ 1. A narrative document as a PDF file (to be read by a human). To preserve the natural flow of the narrative, figures (e.g., screenshots, code snippets) and tables should be embedded into the document near their first mention. Any supplementary files containing R programs or data should be referenced in the text and separately uploaded.
+ 2. All R code as separate files with an .R extension (to be read by a computer).
+ 3. And, when appropriate, a datafile needed to run the notebook file. 
+ 
+ If coding is required for the assignment, you will not get full points if you do not submit the R file. If the code requires a dataset and this is not included in your submission you will not get full credit. Files should be uploaded individually, no *.zip files will be accepted.
+ 
+## Academic Integrity
+Please review and reflect on the academic integrity policy of the University of Illinois, http://studentcode.illinois.edu/article1_part4_1-401.html, to which we subscribe. By turning in materials for review, you certify that all work presented is your own and has been done by you independently, or as a member of a designated group for group assignments.
+
+If, in the course of your writing, you use the words or ideas of another writer, proper acknowledgement must be given (using APA, Chicago, or MLA style). Not to do so is to commit plagiarism, a form of academic dishonesty. If you are not absolutely clear on what constitutes plagiarism and how to cite sources appropriately, now is the time to learn. Please ask me!
+
+Please be aware that the consequences for plagiarism or other forms of academic dishonesty will be severe. Students who violate university standards of academic integrity are subject to disciplinary action, including a reduced grade, failure in the course, and suspension or dismissal from the University.
+
+Criteria for grading homework assignments include (but are not limited to) creativity and the amount of original work demonstrated in the assignment. However, students are permitted to use and adapt the work of others, provided that the following guidelines are followed:
+ * Use of other people’s material must not infringe the copyright of the original author, nor violate the terms of any licensing agreement. Know and respect the principles of fair use with respect to copyrighted material.
+ * Students must scrupulously attribute the original source and author of whatever material has been adapted for the assignment. Summarize the changes or adaptations that have been made. Make plain how much of the assignment represents original work.
+
+*This applies to code as well* – you are welcome to use online sources (e.g. StackOverflow) but be sure to include the URL in your code comments.
+
+Additionally, unless explicitly stated **do not** publish homework solutions online.
+
+## Land Acknowledgment
+As a land-grant institution, the University of Illinois at Urbana-Champaign has a responsibility to acknowledge the historical context in which it exists. In order to remind ourselves and our community, we will begin this event with the following statement. We are currently on the lands of the Peoria, Kaskaskia, Peankashaw, Wea, Miami, Mascoutin, Odawa, Sauk, Mesquaki, Kickapoo, Potawatomi, Ojibwe, and Chickasaw Nations. It is necessary for us to acknowledge these Native Nations and for us to work with them as we move forward as an institution. Over the next 150 years, we will be a vibrant community inclusive of all our differences, with Native peoples at the core of our efforts.
+
+[More information can be found on the Chancellor’s Website.](https://chancellor.illinois.edu/land_acknowledgement.html)
