@@ -80,9 +80,9 @@ As a land-grant institution, the University of Illinois at Urbana-Champaign has 
 
 | Assignment | Percentage | Description |
 |---|---|---|
-| Weekly homework | 55% | stuff |
-| Project - mid-course portion | 20% | stuff |
-| Project - final submission | 25% | stuff |
+| Weekly homework | 55% | Assigned most weeks, statistics written problems and R-coding problems |
+| Project - mid-course portion | 20% | "check in" done individually, then groups assigned for rest of class |
+| Project - final submission | 25% | an in-depth data analysis report (same group) |
 
 ## Class Participation Policy
 To be a leader in the fields of tech you need to be able to to clearly articulate issues and problems and how analytical tools can help. The way we foster this in the course is that you must participate in the classroom discussion. You are not required to "speak up" during every class session, but you do need to attend and contribute to the class and/or forum discussion over the semester.
