@@ -30,7 +30,6 @@ IS430 (formally IS452) Foundations of Information Processing is strongly recomme
 
 ## Required Textbooks:
 
-<p><strong>Required Textbooks:</strong></p>
 <ol>
     <li> OpenIntro Statistics, 4th Edition </li>
     <ul>
@@ -47,3 +46,36 @@ IS430 (formally IS452) Foundations of Information Processing is strongly recomme
         <li> Or download the PDF directly <a href="https://statlearning.com/ISLR%20Seventh%20Printing.pdf">here</a>.</li>
     </ul>
 </ol>
+
+## Writing Resources
+The iSchool Writing Resources is the in-house writing support team for graduate students at the iSchool. They are here to help you with your writing and help you feel more comfortable and confident in your skills. The writing consultants are not professors or evaluators. They simply know the struggles of graduate and undergraduate-level writing and want to help you learn how to succeed and improve your writing skills. The iSchool writing consultants can help you with every step of the writing process. For detailed information on our services please visit our website: https://publish.illinois.edu/ischoolwritingresources/
+
+
+## Course Schedule Outline
+**Note:** the precise scheduling of topics is likely to change based on student feedback and interests.  
+
+| Week Link  | Topic |
+|---|---|
+| [Week 01](week01) | Course Intro & Motivation, Intro to R |
+| [Week 02](week02) | Intro to Numerical Data, Intro to R |
+| [Week 03](week03) | Intro to Categorical Data, Table Proportions, and Probability Theory |
+| [Week 04](week04) | Random Variables, Continous Probability Distributions |
+| [Week 05](week05) | The Normal Distribution |
+| [Week 06](week06) | The Normal & Binomial Distributions |
+| [Week 07](week07) | Foundations for Inference |
+| [Week 08](week08) | Hypothesis testing: Normal, T-distribution, and single proportions |
+| [Week 09](week09) | Hypothesis testing: Differences of 2 means/proportions, paired data; ANOVA and <img src="https://render.githubusercontent.com/render/math?math=\chi^2"> models |
+| [Week 10](week10) | Linear Regression |
+| [Week 11](week11) | Multiple Linear Regression |
+| [Week 12](week12) | Intro to classification & Logistic Regression |
+| [Week 13](week13) | Classification with KNN & Beginning Model Selection with CV & Bootstrapping |
+| [Week 15](week15) | Model Selection & Shrinkage Methods for Linear Regression |
+| [Week 16](week16) | Lasso Regression & CV; Intro to PCA; Course wrap-up |
+
+## Assignments and Methods of Assessment:
+
+| Assignment | Percentage | Description |
+|---|---|---|
+| Weekly homework | 55% | stuff |
+| Project - mid-course portion | 20% | stuff |
+| Project - final submission | 25% | stuff |
