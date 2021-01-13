@@ -84,6 +84,8 @@ As a land-grant institution, the University of Illinois at Urbana-Champaign has 
 | Project - mid-course portion | 20% | "check in" done individually, then groups assigned for rest of class |
 | Project - final submission | 25% | an in-depth data analysis report (same group) |
 
+Note: grading for the homeworks will be done partially by the instructor and partially through "self grading forms".  See class slides for more details.
+
 ## Class Participation Policy
 To be a leader in the fields of tech you need to be able to to clearly articulate issues and problems and how analytical tools can help. The way we foster this in the course is that you must participate in the classroom discussion. You are not required to "speak up" during every class session, but you do need to attend and contribute to the class and/or forum discussion over the semester.
 Leaders are also expected to foster productive environments for those around them. Those in this class come from a variety of backgrounds and comfort levels with the material and programming - it is expected that all students (and instructor!) will remain cognizant of this fact at all times and any demeaning language or behavior will not be tolerated.
