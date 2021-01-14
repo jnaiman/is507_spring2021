@@ -1,11 +1,11 @@
-# Week 15: Cross Validation, Model Selection & Shrinkage Methods for Linear Regression
+# Week 13: Cross Validation, Model Selection & Shrinkage Methods for Linear Regression
 
 We'll discuss model and parameter selection using Cross Validation (for KNN), and start thinking about Lasso/Ridge regression for Linear Regression.
 
 
 ## Class outline
 
- 1. [Lecture](lecture15.pdf)
+ 1. [Lecture](lecture13.pdf)
  1. [Notebook: Intro to CV using KNN](prep_knn_to_CV_part1.ipynb)
     * See [as an Rscript](Rscripts/prep_knn_to_CV_week15.R) 
 	* This notebook starts from the [knn_to_cv_starter_file.R](Rscripts/knn_to_cv_starter_file.R) starter file
