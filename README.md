@@ -20,7 +20,7 @@ Below is the outline of the course, with links to the individual folders for eac
 
 ## Course Outline
 
-Example [syllabus here](IS542AO_syllabus.pdf).
+Example [syllabus here](syllabus.md).
 
 | Week Link  | Topic |
 |---|---|
@@ -31,15 +31,13 @@ Example [syllabus here](IS542AO_syllabus.pdf).
 | [Week 05](week05) | The Normal Distribution |
 | [Week 06](week06) | The Normal & Binomial Distributions |
 | [Week 07](week07) | Foundations for Inference |
-| [Week 08](week08) | Hypothesis testing: Normal, T-distribution, and single proportions |
-| [Week 09](week09) | Hypothesis testing: Differences of 2 means/proportions, paired data; ANOVA and <img src="https://render.githubusercontent.com/render/math?math=\chi^2"> models |
-| [Week 10](week10) | Linear Regression |
-| [Week 11](week11) | Multiple Linear Regression |
-| [Week 12](week12) | Intro to classification & Logistic Regression |
-| [Week 13](week13) | Classification with KNN & Beginning Model Selection with CV & Bootstrapping |
-| Week 14 | Fall Break |
-| [Week 15](week15) | Model Selection & Shrinkage Methods for Linear Regression |
-| [Week 16](week16) | Lasso Regression & CV; Intro to PCA; Course wrap-up |
+| [Week 08](week08) | Hypothesis testing: Normal, T-distribution, and single proportions <br> Differences of 2 means/proportions, paired data; ANOVA and <img src="https://render.githubusercontent.com/render/math?math=\chi^2"> models |
+| [Week 09](week09) | Fake Break!  We'll do some fun stats stuff in Python.  |
+| [Week 10](week10) | Linear Regression & Multiple Linear Regression |
+| [Week 11](week11) | Intro to classification & Logistic Regression |
+| [Week 12](week12) | Classification with KNN & Beginning Model Selection with CV & Bootstrapping |
+| [Week 13](week13) | Model Selection & Shrinkage Methods for Linear Regression |
+| [Week 14](week14) | Lasso Regression & CV; Intro to PCA; Course wrap-up |
 
 
 ## Reading
