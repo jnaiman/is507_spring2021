@@ -1,12 +1,10 @@
-# STATUS: IN-DEV
-
-# Week 12: Intro to classification & Logistic Regression
+# Week 11: Intro to classification & Logistic Regression
 
 We'll discuss Logistic Regression which is a stepping stone to classification.
 
 ## Class outline
 
- 1. [Lecture](lecture13_s2020_toupload.pdf)
+ 1. [Lecture](lecture11.pdf)
  1. [Notebook: Logistic Regression](prep_logisticRegression_donnerParty_part1.ipynb)
       * See [as an Rscript](Rscripts/prep_logisticRegression_donnerParty_part1_week13.R) 
 
