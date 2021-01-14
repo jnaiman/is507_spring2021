@@ -1,6 +1,6 @@
 # Week 11: Intro to classification & Logistic Regression
 
-We'll discuss Logistic Regression which is a stepping stone to classification.
+We'll discuss Logistic Regression which is a stepping stone to classification. (We'll also likely finish up with some MLR stuffs).
 
 ## Class outline
 

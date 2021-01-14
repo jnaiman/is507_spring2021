@@ -1,13 +1,11 @@
-# STATUS: IN-DEV
-
-# Week 13: Classification with KNN & Beginning Model Selection with CV & Bootstrapping
+# Week 12: Classification with KNN & Beginning Model Selection with CV & Bootstrapping
 
 We'll discuss classification with K-Nearest-Neighbors.  We'll start to think about model selection as well.
 
 
 ## Class outline
 
- 1. [Lecture](lecture14_s2020_toupload.pdf)
+ 1. [Lecture](lecture12.pdf)
  1. [Notebook: Intro to KNN](prep_knn_part1.ipynb)
     * See [as an Rscript](Rscripts/prep_knn_week14_part1.R) 
 
