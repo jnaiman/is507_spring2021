@@ -3,11 +3,12 @@
 #  This file will format the class's data
 
 # read in file with names
-classData = read.csv("/Users/jillnaiman/Dropbox/teaching/stats_fall_2020/week02/Intake_Survey.csv")
+classData = read.csv("/Users/jillnaiman/Dropbox/teaching/stats_spring_2021/week02/Intake_Survey.csv")
+outfilename = "/Users/jillnaiman/Dropbox/teaching/stats_spring_2021/week02/formatted_class_answers.csv"
 
 # take out columns -> Moodle formatting
 #newData = classData[,-c(1,2,3,4,5,6,7,8,9,10,23,24,25,26)]
-newData = classData[,c(11,13,14)]
+newData = classData[,c(11,13,14)] # fall 2020, spring 2021
 # rename
 names(newData) = c("familiarity.with.stats", "programming.language.tmp", "time.programming.tmp")
 # do some cleaning
@@ -18,20 +19,31 @@ for (i in 1:nrow(newData)){
     progLang = c(progLang,"Python")
   } else if (length(grep('python',newData$programming.language.tmp[i])) != 0){
     progLang = c(progLang, "python")
+  } else if (length(grep('JavaScript',newData$programming.language.tmp[i])) != 0){
+    progLang = c(progLang, "JavaScript")
+  } else if (length(grep('java',newData$programming.language.tmp[i])) != 0){
+    progLang = c(progLang, "Java")
+  } else if (length(grep('C',newData$programming.language.tmp[i])) != 0){
+    progLang = c(progLang, "C/C++")
   } else if (newData$programming.language.tmp[i] == 'R'){
     progLang = c(progLang, 'R')
+  } else if (newData$programming.language.tmp[i] == 'Java'){
+    progLang = c(progLang, 'Java')
   } else if (newData$programming.language.tmp[i] == 'r'){
     progLang = c(progLang, 'R')
   } else if (newData$programming.language.tmp[i] == 'JS'){
     progLang = c(progLang, 'JavaScript')
-  } else if (length(grep('sql',newData$programming.language.tmp[i])) != 0){
-    progLang = c(progLang, 'R')
+  } else if ( (length(grep('sql',newData$programming.language.tmp[i])) != 0) || (length(grep('Sql',newData$programming.language.tmp[i])) != 0) || (length(grep('SQL',newData$programming.language.tmp[i])) != 0)){
+    #progLang = c(progLang, 'R')
+    progLang = c(progLang, 'SQL')
   } else if (length(grep('Shell',newData$programming.language.tmp[i])) != 0){
     progLang = c(progLang, 'Shell')
   } else if (length(grep('None',newData$programming.language.tmp[i])) != 0){
     progLang = c(progLang, 'Python') # default
   } else if (newData$programming.language.tmp[i] == 'c'){
     progLang = c(progLang, 'C/C++')
+  } else { # no idea
+    print(newData$programming.language.tmp[i])
   }
 }
 # save
@@ -52,7 +64,7 @@ newData$time.programming = times
 newData = newData[,!names(newData) %in% c("time.programming.tmp")]
 
 # write out
-write.csv(newData, file = "/Users/jillnaiman/Dropbox/teaching/stats_fall_2020/week02/formatted_class_answers_orig.csv")
+write.csv(newData, file = outfilename)
 
 
 # # write out file
