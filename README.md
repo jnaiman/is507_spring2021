@@ -30,8 +30,8 @@ Example [syllabus here](syllabus.md).
 | [Week 04](week04) | Random Variables, Continous Probability Distributions |
 | [Week 05](week05) | The Normal Distribution |
 | [Week 06](week06) | The Normal & Binomial Distributions |
-| [Week 07](week07) | Foundations for Inference |
-| [Week 08](week08) | Hypothesis testing: Normal, T-distribution, and single proportions; <br> differences of 2 means/proportions, paired data; ANOVA and <img src="https://render.githubusercontent.com/render/math?math=\chi^2"> models |
+| [Week 07](week07) | Foundations for Inference; Hypothesis testing: Normal, T-distribution, and single proportions; <br> differences of 2 means/proportions, paired data |
+| [Week 08](week08) | Hypothesis testing: ANOVA and <img src="https://render.githubusercontent.com/render/math?math=\chi^2"> models |
 | [Week 09](week09) | Fake Break!  We'll do some fun stats stuff in Python.  |
 | [Week 10](week10) | Linear Regression & Multiple Linear Regression |
 | [Week 11](week11) | Intro to classification & Logistic Regression |
