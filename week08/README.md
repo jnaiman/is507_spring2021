@@ -1,12 +1,10 @@
-# Week 08: Hypothesis testing: Normal, T-distribution, and single proportions; differences of 2 means/proportions, paired data; ANOVA and <img src="https://render.githubusercontent.com/render/math?math=\chi^2" width='40px'> models
+# Week 08: Hypothesis testing: ANOVA and <img src="https://render.githubusercontent.com/render/math?math=\chi^2" width='40px'> models
 
-This week we continue with hypothesis testing with the Normal & T Distributions, differences between two means and proportions and paired data.  We'll also cover hypothesis testing using ANOVA and <img src="https://render.githubusercontent.com/render/math?math=\chi^2"> models.
+We'll cover hypothesis testing using ANOVA and <img src="https://render.githubusercontent.com/render/math?math=\chi^2"> models.
 
 ## Class outline
 
  1. [Lecture, Part 1](lecture8_part1.pdf)
- 1. [Notebook: t-tests with Auto data](prep_part1_tTest_withAutos.ipynb)
-	* See [as an Rscript](Rscripts/prep_part1_tTest_withAutos.R)	
  1. [Lecture, Part 2](lecture8_part2.pdf)
  1. [Notebook #1: Starting <img src="https://render.githubusercontent.com/render/math?math=\chi^2"> models](prep_starting_chi_squared_part1.ipynb)
 	* See [as an Rscript](Rscripts/prep_starting_chi_squared_week09_part1.R)	
