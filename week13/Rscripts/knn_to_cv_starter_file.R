@@ -47,16 +47,16 @@ data_seed = 53272
 n_neg = 2000
 n_pos = 2000
 
-test_data = gmm_distribution2d(n_neg=n_neg, n_pos=n_pos, mean_seed=mean_seed, data_seed=data_seed)
+fake_pop_data = gmm_distribution2d(n_neg=n_neg, n_pos=n_pos, mean_seed=mean_seed, data_seed=data_seed)
 
-mask = test_data$y == -1
-plot(test_data$x1[mask], test_data$x2[mask], col="blue", 
-     xlim=c(min(test_data$x1),max(test_data$x1)), ylim = c(min(test_data$x2),max(test_data$x2)), 
+mask = fake_pop_data$y == -1
+plot(fake_pop_data$x1[mask], fake_pop_data$x2[mask], col="blue", 
+     xlim=c(min(fake_pop_data$x1),max(fake_pop_data$x1)), ylim = c(min(fake_pop_data$x2),max(fake_pop_data$x2)), 
      xlab="x1", ylab="x2")
-points(test_data$x1[!mask], test_data$x2[!mask], col="magenta")
+points(fake_pop_data$x1[!mask], fake_pop_data$x2[!mask], col="magenta")
 
 
-# ok, so the above is our simulated population, or the "test" dataset
+# ok, so the above is our simulated population, 
 #  AGAIN: we will probably not have access to the actual distribution like we have
 #  here -> which is just 2 gaussians
 
